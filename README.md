@@ -19,8 +19,7 @@ config文件夹内的txt文件可以自行修改
 1. 核心技术：正则匹配
 2. 代码展示：
 ![icon](./0.jpg)
-![icon](./1.jpg)
-![icon](./2.jpg)
+
 
 ## 使用方法
 ![icon](./use.gif)
