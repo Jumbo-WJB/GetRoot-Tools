@@ -1,11 +1,9 @@
-# GetRoot-Tools
-A tools help you to get root.提权辅助工具
-> GetRoot Tools.exe MD5:ce4777362c275e08e4951c070700e297
 
 ## 更新内容
 1. 修复了兼容性
 2. 对尾部空格进行了删除(随性化)
 3. 程序开源(自由化设计)
+4. 全局空格删除(随性化)
 
 ## 功能点
 * Windows的补丁对比
